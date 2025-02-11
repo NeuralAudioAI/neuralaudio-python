@@ -1,0 +1,23 @@
+# Specify files that shouldn't be modified by Fern
+
+# Ignore manually created SDK wrappers
+src/neuralaudio/client.py
+src/neuralaudio/conversational_ai/conversation.py
+src/neuralaudio/conversational_ai/default_audio_interface.py
+src/neuralaudio/play.py
+src/neuralaudio/realtime_tts.py
+
+# Ignore CI files
+.github/
+
+README.md
+assets/
+
+# Ignore custom tests
+tests/
+
+
+
+
+
+
