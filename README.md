@@ -16,7 +16,7 @@ pip install neural_audio
 
 ## 🎤 Usage
 
-[![Open in Spaces](https://img.shields.io/badge/🤗 -Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/)
+[![Open in Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/)
 
 ### Models
 
