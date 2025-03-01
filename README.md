@@ -1,8 +1,8 @@
 # NeuralAudioAI Python SDK
 
-![LOGO](https://github.com/)
+![LOGO](https://storage.googleapis.com/crypto-utils-1/Header%20with%20Pattern.png)
 
-[![Website](https://img.shields.io/badge/🌎-NeuralAudioAI-white.svgl)](https://www.neuralaudio.solutions)
+[![Website](https://img.shields.io/badge/🌎-NeuralAudioAI-white.svg)](https://www.neuralaudio.solutions)
 [![Twitter](https://badgen.net/badge/black/NeuralAudioAI/icon?icon=twitter&label)](https://x.com/NeuralAudioAI)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-huggingface-black.svg)](https://huggingface.co/NeuralAudioAI)
 
